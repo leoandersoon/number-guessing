@@ -18,6 +18,3 @@ If someone asked you, “What exactly is programming anyway?” what could you s
 And that’s it, just those four things. Of course, there are many details about those four types of instructions. In this book you’ll learn about new data types and operators, new flow control statements, and many other functions that come with Python. There are also different types of I/O such as input from the mouse or outputting sound and graphics instead of just text.
 
 For the person using your programs, they only care about that last type, I/O. The user types on the keyboard and then sees things on the screen or hears things from the speakers. But for the computer to figure out what sights to show and what sounds to play, it needs a program, and programs are just a bunch of instructions that you, the programmer, have written.
-
-![number_guessing_teori](https://user-images.githubusercontent.com/79702313/123196697-0ef36a00-d4b3-11eb-833c-4174dabee8dd.jpg)
-![number_guessing_teori2](https://user-images.githubusercontent.com/79702313/123196704-11ee5a80-d4b3-11eb-99d2-fdf6c55a4c9f.jpg)
